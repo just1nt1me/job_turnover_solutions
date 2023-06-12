@@ -1,2 +1,2 @@
-# cruiseship_crew
-Regression Model to Predict # of Crew per Cruise
+# job_turnover
+Classification Model to Predict whether employee quits or not
